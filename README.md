@@ -419,6 +419,16 @@ https://youtube.com/...
 
 ---
 
+# Link Laporan Ilmiah Dokumen
+
+Tambahkan tautan Google Drive di bawah ini.
+
+```
+(link drive)
+```
+
+---
+
 # 📝 Kesimpulan
 
 Berdasarkan praktikum yang telah dilakukan, proses instalasi Debian 13 Headless berhasil diselesaikan mulai dari pemasangan sistem operasi, konfigurasi pengguna, instalasi web server Nginx, hingga pengujian akses web melalui port forwarding VMware.
