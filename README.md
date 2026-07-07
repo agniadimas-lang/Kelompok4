@@ -424,7 +424,7 @@ https://youtube.com/...
 Tambahkan tautan Google Drive di bawah ini.
 
 ```
-(link drive)
+([link drive](https://drive.google.com/drive/folders/1Znc95MTW0s4zlw-_ItxSxLXwEtN4KA_w?usp=sharing))
 ```
 
 ---
