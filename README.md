@@ -204,7 +204,7 @@ Tidak menginstal Desktop Environment agar server tetap ringan.
 
 ### Screenshot Software Selection
 
-![Software Selection](Images/01-Software-Selection.png)
+![Software Selection](images/01-software-selection.png.jpg)
 
 ---
 
