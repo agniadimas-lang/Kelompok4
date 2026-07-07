@@ -204,7 +204,7 @@ Tidak menginstal Desktop Environment agar server tetap ringan.
 
 ### Screenshot Software Selection
 
-![Software Selection](images/01-software-selection.png.jpg)
+![Software Selection](images/01-software-selection-png.jpg)
 
 ---
 
@@ -238,7 +238,7 @@ Setelah restart, login menggunakan user yang telah dibuat.
 
 ### Screenshot Login Debian
 
-![Login Terminal](Images/02-Debian-Login.png)
+![Login Terminal](images/02-debian-login.png.jpg)
 
 ---
 
@@ -284,11 +284,11 @@ Apabila meminta password dan berhasil dijalankan berarti konfigurasi sudo berhas
 
 ### Screenshot
 
-![Update](Images/07-apt-update.png)
+![Update](images/03-install-sudo.png.jpg)
 
-![Install Sudo](Images/08-install-sudo.png)
+![Install Sudo](images/04-sudo-config.png.jpeg)
 
-![Usermod](Images/09-usermod.png)
+![Usermod](images/05-usermod.png.jpeg)
 
 ---
 
@@ -333,7 +333,7 @@ active (running)
 
 ### Screenshot
 
-![Status Nginx](Images/03-nginx-status.png)
+![Status Nginx](images/06-nginx-status.png.jpg)
 
 ---
 
@@ -367,7 +367,7 @@ Restart dilakukan agar konfigurasi dan halaman web terbaru dimuat kembali oleh N
 
 ### Screenshot
 
-![Edit HTML](Images/04-Edit-HTML.png)
+![Edit HTML](images/07-edit-html.png.jpg)
 
 ---
 
@@ -401,11 +401,11 @@ Apabila halaman profil kelompok muncul berarti konfigurasi berhasil.
 
 ### Screenshot NAT
 
-![NAT](Images/05-nat-settings.png)
+![NAT](images/08-nat-settings.png.jpg)
 
 ### Screenshot Browser
 
-![Browser](Images/06-browser-host.png)
+![Browser](images/09-browser-host.png.jpg)
 
 ---
 
@@ -431,10 +431,7 @@ Tambahkan tautan Google Drive di bawah ini.
 
 # 📝 Kesimpulan
 
-Berdasarkan praktikum yang telah dilakukan, proses instalasi Debian 13 Headless berhasil diselesaikan mulai dari pemasangan sistem operasi, konfigurasi pengguna, instalasi web server Nginx, hingga pengujian akses web melalui port forwarding VMware.
-
-Melalui praktikum ini diperoleh pemahaman bahwa server berbasis Command Line Interface (CLI) lebih ringan dibandingkan server yang menggunakan Graphical User Interface (GUI), sehingga lebih efisien dalam penggunaan sumber daya komputer. Selain itu, penggunaan SSH mempermudah proses administrasi server dari komputer lain melalui jaringan.
-
+Berdasarkan rangkaian kegiatan praktikum yang telah dilaksanakan, dapat disimpulkan bahwa proses instalasi sistem operasi Debian 13 dalam mode headless pada platform virtualisasi VMware Workstation dapat diselesaikan dengan baik dan sesuai prosedur. Setiap tahapan, meliputi pembuatan Virtual Machine, instalasi sistem operasi, pemutakhiran repository dan paket sistem, pemasangan web server Nginx, penyusunan halaman web berbasis HTML, serta konfigurasi port forwarding, telah dilaksanakan secara sistematis dan menghasilkan luaran yang sesuai dengan target praktikum.
 ## Poin-poin yang Dipelajari
 
 - Memahami proses instalasi Debian 13 dalam mode headless.
