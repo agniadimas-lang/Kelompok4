@@ -265,7 +265,7 @@ apt install sudo -y
 Tambahkan user ke grup sudo.
 
 ```bash
-usermod -aG sudo kelompok2sia
+usermod -aG sudo kelompok4
 ```
 
 Restart sistem.
